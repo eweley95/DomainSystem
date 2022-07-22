@@ -2,13 +2,13 @@
 Get domain IP, country, region and city of the server located at by searching the domain
 
 # Demo
-<a href="https://ds.asiabet.asia/">IP2Location Programming Contest - Domain Searching System (Demo)</a>
+<a href="https://ds.asiabet.asia/" target="_blank">IP2Location Programming Contest - Domain Searching System (Demo)</a>
 
 # Introduction
 <ul>
 <li>A website system to get the domain IP address, country, region and city of the server located at.</li>
 <li>Java, JSP, CSS, Javascript are used in this system.</li>
-<li>All return datas such as country code, country name, region name, city name rerieved by using <a href="https://github.com/ip2location/ip2location-java">IP2Location™ IP Geolocation Java Component</a>.</li>
+<li>All return datas such as country code, country name, region name, city name rerieved by using <a href="https://github.com/ip2location/ip2location-java" target="_blank">IP2Location™ IP Geolocation Java Component</a>.</li>
 <li>On the database `ip2location`, table `domain_history` used to record the searched history.</li>
 </ul>
 
