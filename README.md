@@ -10,6 +10,7 @@ Get domain IP, country, region and city of the server located at by searching th
 <li>Java, JSP, CSS, Javascript are used in this system.</li>
 <li>All return datas such as country code, country name, region name, city name rerieved by using <a href="https://github.com/ip2location/ip2location-java" target="_blank">IP2Location™ IP Geolocation Java Component</a>.</li>
 <li>On the database `ip2location`, table `domain_history` used to record the searched history.</li>
+<li>IP2LOCATION-LITE-DB3.BIN can be found at /WebContent/resources</li>
 </ul>
 
 # Database
