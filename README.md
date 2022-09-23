@@ -2,7 +2,7 @@
 Get domain IP, country, region and city of the server located at by searching the domain
 
 # Demo
-<a href="https://ds.asiabet.asia/" target="_blank">IP2Location Programming Contest - Domain Searching System (Demo)</a>
+<a href="https://ds.marioclub.asia/" target="_blank">IP2Location Programming Contest - Domain Searching System (Demo)</a>
 
 # Introduction
 <ul>
